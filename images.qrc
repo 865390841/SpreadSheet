@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bingo.png</file>
+        <file alias="go">images/go.png</file>
+        <file alias="start">images/start.jpg</file>
+    </qresource>
+</RCC>
